@@ -45,3 +45,7 @@ git pull => Puxa as atualizacoes do github
 touch .gitignore
 
 abrir o aqrquivo e colocar o nomedapasta/
+
+
+
+*ESSA FRASE SERVE APENAS PARA CONTROLE*
