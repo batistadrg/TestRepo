@@ -25,3 +25,9 @@ git checkout nomedabranch => Serve para selecionar a branch desejada
 ==PROCESSO DE MERGE==
 
 Atualiza a branch master trazendo o codigo de outra branch para ele
+
+Entre na branch que deseja atualizar
+        git checkout master
+
+Seleciona o comando com a branch que deseja subir para a branch que está atualmente
+        git merge staging
