@@ -1,6 +1,13 @@
-==BASICO==
+==INICIO==
 git init => Cria os arquivos necessarios para configuracao
 
+git config --global user.name "username"
+
+git config --global user.email "email"
+
+git remote add origin link_do_respositorio
+
+==ATUALIZANDO O REPOSITORIO==
 git add . => Adiciona todos os arquivos 
 
 git commit -m "mensagem" => faz o commit dos pacotes
