@@ -38,3 +38,10 @@ Seleciona o comando com a branch que deseja subir para a branch que está atualm
 
 ==PUXANDO ATUALIZAÇOES==
 git pull => Puxa as atualizacoes do github
+
+
+==GIT IGNORE==
+
+touch .gitignore
+
+abrir o aqrquivo e colocar o nomedapasta/
