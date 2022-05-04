@@ -1,0 +1,22 @@
+==BASICO==
+
+git add . => Adiciona todos os arquivos 
+
+git commit -m "mensagem" => faz o commit dos pacotes
+
+git push => sobe para o github
+
+
+==VERSOES==
+git reflog => Ver todas as versoes do codigo
+
+
+git reset --hard IDDAVERSAODESEJADA
+
+
+==BRANCH==
+git branch => ver as branchs
+
+git branch nomedabranch => Criar uma branch nova
+
+git checkout nomedabranch => Serve para selecionar a branch desejada
