@@ -20,3 +20,8 @@ git branch => ver as branchs
 git branch nomedabranch => Criar uma branch nova
 
 git checkout nomedabranch => Serve para selecionar a branch desejada
+
+
+==PROCESSO DE MERGE==
+
+Atualiza a branch master trazendo o codigo de outra branch para ele
